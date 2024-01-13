@@ -10,3 +10,5 @@
 ![Kemar GitHub Stats](https://github-readme-stats.vercel.app/api?username=kemar&show_icons=true&count_private=true)
 
 ![Kemar Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemar&layout=compact&hide=html)
+
+<a style="visibility: hidden;" rel="me" href="https://mastodon.social/@kemar">Mastodon</a>
