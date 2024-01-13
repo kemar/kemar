@@ -2,7 +2,6 @@
 
 - [Curriculum Vitae](https://marcarea.com/cv/)
 - [Blog](https://marcarea.com/weblog/)
-- <a rel="me" href="https://mastodon.social/@kemar">Mastodon</a>
 
 ## Some of my GitHub Stats
 
